@@ -1,0 +1,27 @@
+﻿  TermProject.cpp
+C:\Dev\TermProject\TermProject.cpp(496,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(580,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(581,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(589,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(589,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(593,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(594,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(595,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(596,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(597,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(601,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(602,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(603,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(604,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(607,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(608,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(609,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(610,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(611,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(615,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(616,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(617,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(618,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\TermProject\TermProject.cpp(711,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Dev\TermProject\TermProject.cpp(816,13): warning C4101: 'x': unreferenced local variable
+  TermProject.vcxproj -> C:\Dev\TermProject\x64\Debug\TermProject.exe

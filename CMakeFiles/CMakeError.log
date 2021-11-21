@@ -1,0 +1,130 @@
+Determining if files unistd.h exist failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d3a1c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  HAVE_UNISTD_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d3a1c.dir\Debug\\" /Fd"cmTC_d3a1c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c
+C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c(2,10): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_d3a1c.vcxproj]
+
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/time.h exist failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_a412a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  HAVE_SYS_TIME_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a412a.dir\Debug\\" /Fd"cmTC_a412a.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_TIME_H.c
+C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_TIME_H.c(2,10): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_a412a.vcxproj]
+
+
+Source:
+/* */
+#include <sys/time.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/param.h exist failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_c58b6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  HAVE_SYS_PARAM_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c58b6.dir\Debug\\" /Fd"cmTC_c58b6.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_PARAM_H.c
+C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_PARAM_H.c(2,10): fatal error C1083: Cannot open include file: 'sys/param.h': No such file or directory [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_c58b6.vcxproj]
+
+
+Source:
+/* */
+#include <sys/param.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/ioctl.h exist failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5dbf4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  HAVE_SYS_IOCTL_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5dbf4.dir\Debug\\" /Fd"cmTC_5dbf4.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_IOCTL_H.c
+C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_SYS_IOCTL_H.c(2,10): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_5dbf4.vcxproj]
+
+
+Source:
+/* */
+#include <sys/ioctl.h>
+
+
+int main(void){return 0;}
+
+Determining if files usbhid.h exist failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_22443.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  HAVE_USBHID_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_22443.dir\Debug\\" /Fd"cmTC_22443.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_USBHID_H.c
+C:\Dev\TermProject\CMakeFiles\CheckIncludeFiles\HAVE_USBHID_H.c(2,10): fatal error C1083: Cannot open include file: 'usbhid.h': No such file or directory [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_22443.vcxproj]
+
+
+Source:
+/* */
+#include <usbhid.h>
+
+
+int main(void){return 0;}
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_28c7f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_28c7f.dir\Debug\\" /Fd"cmTC_28c7f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gettimeofday referenced in function main [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_28c7f.vcxproj]
+C:\Dev\TermProject\CMakeFiles\CMakeTmp\Debug\cmTC_28c7f.exe : fatal error LNK1120: 1 unresolved externals [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_28c7f.vcxproj]
+
+
+
+Determining if the function XParseGeometry exists failed with the following output:
+Change Dir: C:/Dev/TermProject/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_51219.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30137 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=XParseGeometry /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51219.dir\Debug\\" /Fd"cmTC_51219.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol XParseGeometry referenced in function main [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_51219.vcxproj]
+C:\Dev\TermProject\CMakeFiles\CMakeTmp\Debug\cmTC_51219.exe : fatal error LNK1120: 1 unresolved externals [C:\Dev\TermProject\CMakeFiles\CMakeTmp\cmTC_51219.vcxproj]
+
+
+
